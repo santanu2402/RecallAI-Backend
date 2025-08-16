@@ -274,9 +274,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [FAISS](https://github.com/facebookresearch/faiss) for vector search
 - [LangChain](https://python.langchain.com) for text processing
 - [Flask](https://flask.palletsprojects.com) for the web framework
-
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/RecallAI](https://github.com/yourusername/RecallAI)
