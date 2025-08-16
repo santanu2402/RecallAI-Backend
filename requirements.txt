@@ -1,9 +1,0 @@
-flask
-PyMuPDF
-python-docx
-youtube_transcript_api
-sentence_transformers
-faiss-cpu
-ollama
-groq
-langchain
