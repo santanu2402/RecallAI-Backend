@@ -1,0 +1,12 @@
+Flask
+flask-cors
+pymupdf
+python-docx
+youtube-transcript-api
+sentence-transformers
+faiss-cpu
+ollama
+groq
+langchain
+psutil
+python-dotenv
