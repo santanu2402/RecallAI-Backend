@@ -101,7 +101,7 @@ An intelligent document and YouTube video Q&A system powered by Groq LLM and sem
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/RecallAI.git
+git clone https://github.com/santanu2402/RecallAI-Backend.git
 cd RecallAI
 ```
 
